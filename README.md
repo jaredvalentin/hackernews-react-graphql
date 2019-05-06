@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jaredvalentin/Pipelines%20Test/_apis/build/status/jaredvalentin.hackernews-react-graphql?branchName=master)](https://dev.azure.com/jaredvalentin/Pipelines%20Test/_build/latest?definitionId=4&branchName=master)
 <h2 align="center">Hacker News Clone React/GraphQL</h2>
 
 <p align="center">
